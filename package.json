@@ -1,0 +1,31 @@
+{
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "ipware": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "name": "ip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwin-Dev-P/ip-address.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwin-Dev-P/ip-address/issues"
+  },
+  "homepage": "https://github.com/Ashwin-Dev-P/ip-address#readme",
+  "description": ""
+}
